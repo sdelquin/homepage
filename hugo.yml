@@ -32,6 +32,9 @@ languages:
         - name: About me
           url: /about-me/
           weight: 1
+        - name: Portfolio
+          url: /portfolio/
+          weight: 2
 
 params:
   defaultTheme: auto
