@@ -1,0 +1,6 @@
+/public/
+/resources/_gen/
+/hugo_stats.json
+Thumbs.db
+.DS_Store
+.hugo_build.lock
