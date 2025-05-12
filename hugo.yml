@@ -1,0 +1,70 @@
+baseURL: "https://sdelquin.matraka.es/"
+languageCode: "es-es"
+title: "Sergio Delgado Quintero"
+defaultContentLanguage: es
+theme: "PaperMod"
+
+languages:
+  es:
+    languageName: "🇪🇸"
+    weight: 1
+    contentDir: "content/es"
+    params:
+      profileMode:
+        subtitle: "Ahora es mejor que nunca"
+    menu:
+      main:
+        - name: Sobre mi
+          url: /about-me/
+          weight: 1
+        - name: Portfolio
+          url: /portfolio/
+          weight: 2
+  en:
+    languageName: "🇺🇸"
+    weight: 2
+    contentDir: "content/en"
+    params:
+      profileMode:
+        subtitle: "Now is better than never"
+    menu:
+      main:
+        - name: About me
+          url: /about-me/
+          weight: 1
+
+params:
+  defaultTheme: auto
+  showLanguageSwitcher: true
+  displayFullLangName: true
+
+  profileMode:
+    enabled: true
+    title: "Sergio Delgado Quintero"
+    imageUrl: "/images/avatar.jpg"
+    imageWidth: 200
+    imageHeight: 200
+
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/sdelquin"
+    - name: "twitter"
+      url: "https://twitter.tv/sdelquin"
+    - name: "twitch"
+      url: "https://twitch.com/sdelquin"
+    - name: "instagram"
+      url: "https://instagram.com/sdelquin"
+    - name: "telegram"
+      url: "https://t.me/sdelquin"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/sdelquin"
+    - name: "youtube"
+      url: "https://www.youtube.com/@sdelquin"
+    - name: "tiktok"
+      url: "https://www.tiktok.com/@sdelquin"
+    - name: "bluesky"
+      url: "https://bsky.app/profile/sdelquin.me"
+    - name: "email"
+      url: "sdelquin@gmail.com"
+    - name: "phone"
+      url: "(+34) 621 336 832"
