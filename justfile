@@ -6,6 +6,10 @@ run:
 add page:
     hugo new {{page}}.md
 
+# Clone theme
+clone-theme:
+    git submodule update --init --recursive
+
 # Update theme
-update:
-    cd themes/PaperMod && git pull
+update-theme:
+    cd themes/PaperMod && git pull origin master
