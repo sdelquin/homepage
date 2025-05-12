@@ -13,3 +13,7 @@ clone-theme:
 # Update theme
 update-theme:
     cd themes/PaperMod && git pull origin master
+
+# Build website --> output: /public
+build:
+    hugo
