@@ -30,6 +30,10 @@ El canal cuenta a día de hoy con más de 7000 suscriptores y suscriptoras. Adem
 - [EduCanOferta](https://github.com/sdelquin/educanoferta): Notificación de las ofertas para nombramientos excepcionales de la Consejería de Educación del Gobierno de Canarias.
 - [EduCanNombra](https://github.com/sdelquin/educannombra): Notificación de los nombramientos diarios de la Consejería de Educación del Gobierno de Canarias.
 
+## Peqes 🔗
+
+[peq.es](https://peq.es) es un acortador de URLs. Cansado de tantas restricciones/publicidad en acortadores existentes, he creado este recurso para cubrir dicha necesidad.
+
 ## CIFutils ⚛️
 
 [CIFutils](https://cifutils.matraka.es) es una herramienta que permite extraer parámetros de ficheros CIF (Crystallographic Information File). Se trata de archivos de texto plano para representar información cristalográfica.

@@ -30,6 +30,10 @@ The channel currently has over 7,000 subscribers. It is also complemented by two
 - [EduCanOferta](https://github.com/sdelquin/educanoferta): Notifies about exceptional appointment offers from the Canary Islands Department of Education.
 - [EduCanNombra](https://github.com/sdelquin/educannombra): Notifies about the daily appointments from the Canary Islands Department of Education.
 
+## Peqes 🔗
+
+[peq.es](https://peq.es) is a URL shortener. Tired of all the restrictions/ads in existing shorteners, I created this tool to address that need.
+
 ## CIFutils ⚛️
 
 [CIFutils](https://cifutils.matraka.es) is a tool that extracts parameters from CIF (Crystallographic Information File) files. These are plain text files used to represent crystallographic information.
