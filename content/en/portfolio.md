@@ -25,10 +25,11 @@ Together, we published the article [HaploSearch: A tool for haplotype-sequence t
 
 [EduCanNews](https://github.com/sdelquin/educannews) is a Telegram bot that analyzes updates from the [Canary Islands Department of Education](https://www.gobiernodecanarias.org/educacion/web/) and sends notifications to [this Telegram channel](https://t.me/educannews).
 
-The channel currently has over 7,000 subscribers. It is also complemented by two additional tools:
+The channel currently has over 8000 subscribers. It is also complemented by three additional tools:
 
 - [EduCanOferta](https://github.com/sdelquin/educanoferta): Notifies about exceptional appointment offers from the Canary Islands Department of Education.
 - [EduCanNombra](https://github.com/sdelquin/educannombra): Notifies about the daily appointments from the Canary Islands Department of Education.
+- [EduCanOpos](https://github.com/sdelquin/educanopos): Notifies about the announcements/results of the selection processes (competitive examinations) from the Canary Islands Department of Education.
 
 ## Peqes 🔗
 

@@ -25,10 +25,11 @@ Hemos publicado conjuntamente el artículo [HaploSearch: A tool for haplotype-se
 
 [EduCanNews](https://github.com/sdelquin/educannews) implementa un bot de Telegram que analiza las novedades de la [Consejería de Educación del Gobierno de Canarias](https://www.gobiernodecanarias.org/educacion/web/) y envía notificaciones a [este canal](https://t.me/educannews) de Telegram.
 
-El canal cuenta a día de hoy con más de 7000 suscriptores y suscriptoras. Además está complementado por otras dos herramientas:
+El canal cuenta a día de hoy con más de 8000 suscriptores y suscriptoras. Además está complementado por otras tres herramientas:
 
 - [EduCanOferta](https://github.com/sdelquin/educanoferta): Notificación de las ofertas para nombramientos excepcionales de la Consejería de Educación del Gobierno de Canarias.
 - [EduCanNombra](https://github.com/sdelquin/educannombra): Notificación de los nombramientos diarios de la Consejería de Educación del Gobierno de Canarias.
+- [EduCanOpos](https://github.com/sdelquin/educanopos): Notificación de las publicaciones/resultados de los procesos selectivos (oposición) de la Consejería de Educación del Gobierno de Canarias.
 
 ## Peqes 🔗
 
