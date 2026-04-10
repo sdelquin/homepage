@@ -21,7 +21,7 @@ languages:
           url: /portfolio/
           weight: 2
   en:
-    languageName: "🇺🇸"
+    languageName: "🇬🇧"
     weight: 2
     contentDir: "content/en"
     params:
@@ -51,8 +51,8 @@ params:
   socialIcons:
     - name: "github"
       url: "https://github.com/sdelquin"
-    - name: "twitter"
-      url: "https://twitter.tv/sdelquin"
+    - name: "x"
+      url: "https://x.com/sdelquin"
     - name: "twitch"
       url: "https://twitch.com/sdelquin"
     - name: "instagram"
@@ -66,7 +66,7 @@ params:
     - name: "tiktok"
       url: "https://www.tiktok.com/@sdelquin"
     - name: "bluesky"
-      url: "https://bsky.app/profile/sdelquin.me"
+      url: "https://bsky.app/profile/sdelquin.matraka.es"
     - name: "email"
       url: "sdelquin@gmail.com"
     - name: "phone"
