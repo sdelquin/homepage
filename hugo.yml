@@ -9,6 +9,10 @@ languages:
     languageName: "🇪🇸"
     weight: 1
     contentDir: "content/es"
+    author:
+      name: "Sergio Delgado Quintero"
+      email: "sdelquin@gmail.com"
+
     params:
       profileMode:
         subtitle: "Ahora es mejor que nunca"
@@ -24,6 +28,10 @@ languages:
     languageName: "🇬🇧"
     weight: 2
     contentDir: "content/en"
+    author:
+      name: "Sergio Delgado Quintero"
+      email: "sdelquin@gmail.com"
+
     params:
       profileMode:
         subtitle: "Now is better than never"
