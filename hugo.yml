@@ -77,5 +77,5 @@ params:
       url: "https://bsky.app/profile/sdelquin.matraka.es"
     - name: "email"
       url: "sdelquin@gmail.com"
-    - name: "phone"
-      url: "(+34) 621 336 832"
+    - name: "whatsapp"
+      url: "https://wa.me/sdelquin"
