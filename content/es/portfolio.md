@@ -57,3 +57,9 @@ He creado varios paquetes Python disponibles en PyPI:
 - [telegramtk](https://pypi.org/project/telegramtk/): Acceso a Telegram Bot API mediante funciones sencillas.
 - [wrpy](https://pypi.org/project/wrpy/): Traducción de texto mediante Word Reference.
 - [yagdrive](https://pypi.org/project/yagdrive/): Acceso sencillo y potente a Google Drive API.
+
+## Pizzería La Albahaca 🍕
+
+He desarrollado la [página web](https://pizzerialaalbahaca.es) de la pizzería La Albahaca, utilizando tecnologías como [Django](https://www.djangoproject.com/), [Tailwind CSS](https://tailwindcss.com/), [Alpine.js](https://alpinejs.dev/) y [htmx](https://htmx.org/).
+
+Se trata de un fantástico restaurante situado en la isla de Tenerife, concretamente en el municipio de **El Tanque**. Altamente recomendable.
